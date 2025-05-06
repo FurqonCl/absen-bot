@@ -7,8 +7,8 @@ const axios = require("axios");
 const app = express();
 const PORT = 3000;
 
-const TELEGRAM_BOT_TOKEN = "8046810663:AAEDKWWGJeCA6us-g0j7RuZniHlKxSLqgSw";
-const TELEGRAM_USER_ID = "7333629874"; 
+const TELEGRAM_BOT_TOKEN = "8046810663:AAFGoPJjf0xmFvQdlkdZSMnnu4fUyntZDRo";
+const TELEGRAM_USER_ID = "7341190291"; 
 
 const absensiFile = path.join(__dirname, "absensi.json");
 
